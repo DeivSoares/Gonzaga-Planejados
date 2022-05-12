@@ -344,9 +344,12 @@ body.menu-expanded button svg path {
 }
 
 #services .card {
-    background: white;
-    border: 1px solid var(--brand-light);
+    align-items: center;
+    background: var(--primary-color);
+    color: white;
+    /* border: 1px solid var(--brand-light); */
     border-radius: .6rem;
+    box-shadow: 5px 16px 4px #00000087;
     padding: 2.4rem;
     text-align: left;
 }
