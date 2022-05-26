@@ -406,6 +406,13 @@ footer {
     color: white;
 }
 
+footer .col-a img{
+    width: 6rem;
+    align-self: center;
+    display: inline-flex;
+    align-items: center;
+}
+
 footer .logo {
     display: inline-block;
     margin-bottom: 2.4rem;
@@ -709,6 +716,13 @@ footer .social-links {
 
     footer .col-a {
         align-self: center;
+    }
+
+    footer .col-a img{
+        width: 6rem;
+        align-self: center;
+        display: inline-flex;
+        align-items: center;
     }
 
     footer .col-b {
